@@ -1,0 +1,12 @@
+[
+    {
+        "email": "aiko@mail.com", 
+        "password": "123456",
+        "role": "customer"
+    },
+    {
+        "email": "ipin@mail.com",
+        "password": "123456",
+        "role": "customer"
+    }
+]

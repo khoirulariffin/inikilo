@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Bedford Incident, The",
+        "description": "Nondisp segmental fracture of shaft of right tibia, sequela",
+        "price": 363439,
+        "stock": 5,
+        "imgUrl": "https://images.unsplash.com/photo-1467043237213-65f2da53396f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "categoryId": 1,
+        "authorId": 1
+    },
+    {
+        "name": "Hobson's Choice",
+        "description": "Displaced pilon fracture of unspecified tibia, sequela",
+        "price": 137549,
+        "stock": 3,
+        "imgUrl": "https://images.unsplash.com/photo-1467043237213-65f2da53396f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "categoryId": 2,
+        "authorId": 2
+    },
+    {
+        "name": "Laid To Rest",
+        "description": "Anorexia nervosa, binge eating/purging type",
+        "price": 668052,
+        "stock": 4,
+        "imgUrl": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=772&q=80",
+        "categoryId": 3,
+        "authorId": 2
+    },
+    {
+        "name": "The Circle",
+        "description": "Laceration of rectum, initial encounter",
+        "price": 648515,
+        "stock": 3,
+        "imgUrl": "https://images.unsplash.com/photo-1467043237213-65f2da53396f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "categoryId": 4,
+        "authorId": 3
+    },
+    {
+        "name": "Life 2.0",
+        "description": "Varicella with other complications",
+        "price": 872624,
+        "stock": 4,
+        "imgUrl": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=405&q=80",
+        "categoryId": 5,
+        "authorId": 4
+    },
+    {
+        "name": "D2: The Mighty Ducks",
+        "description": "Cont preg aft elctv fetl rdct of 1 fts or more, 2nd tri, oth",
+        "price": 936857,
+        "stock": 1,
+        "imgUrl": "https://images.unsplash.com/photo-1467043237213-65f2da53396f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "categoryId": 2,
+        "authorId": 3
+    },
+    {
+        "name": "Madagascar: Escape 2 Africa",
+        "description": "Chronic osteomyelitis with draining sinus, unsp shoulder",
+        "price": 182568,
+        "stock": 1,
+        "imgUrl": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=772&q=80",
+        "categoryId": 3,
+        "authorId": 2
+    },
+    {
+        "name": "Starcrash (a.k.a. Star Crash)",
+        "description": "Disp fx of neck of r radius, subs for clos fx w delay heal",
+        "price": 141023,
+        "stock": 2,
+        "imgUrl": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "categoryId": 1,
+        "authorId": 2
+    },
+    {
+        "name": "From the Sky Down",
+        "description": "Effusion, right hip",
+        "price": 116000,
+        "stock": 3,
+        "imgUrl": "https://images.unsplash.com/photo-1467043237213-65f2da53396f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "categoryId": 3,
+        "authorId": 1
+    },
+    {
+        "name": "Woman in Black, The",
+        "description": "Cyclic neutropenia",
+        "price": 101112,
+        "stock": 5,
+        "imgUrl": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "categoryId": 3,
+        "authorId": 1
+    },
+    {
+        "name": "Lilian's Story",
+        "description": "Toxic effect of ethanol, accidental (unintentional), init",
+        "price": 811613,
+        "stock": 5,
+        "imgUrl": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=772&q=80",
+        "categoryId": 3,
+        "authorId": 1
+    },
+    {
+        "name": "Bluebeard",
+        "description": "Unsp opn wnd right lesser toe(s) w/o damage to nail, subs",
+        "price": 858417,
+        "stock": 5,
+        "imgUrl": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=772&q=80",
+        "categoryId": 3,
+        "authorId": 1
+    },
+    {
+        "name": "Brighton Beach Memoirs",
+        "description": "Burn of third degree of thumb (nail)",
+        "price": 293681,
+        "stock": 2,
+        "imgUrl": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=405&q=80",
+        "categoryId": 3,
+        "authorId": 1
+    },
+    {
+        "name": "8 1/2 (8½)",
+        "description": "Other cystitis",
+        "price": 435667,
+        "stock": 4,
+        "imgUrl": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=405&q=80",
+        "categoryId": 3,
+        "authorId": 1
+    },
+    {
+        "name": "Bad Words",
+        "description": "Displaced oblique fracture of shaft of right ulna, sequela",
+        "price": 818350,
+        "stock": 5,
+        "imgUrl": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=405&q=80",
+        "categoryId": 3,
+        "authorId": 1
+    },
+    {
+        "name": "Tall T, The",
+        "description": "Rheumatoid arthritis without rheumatoid factor, left hand",
+        "price": 379864,
+        "stock": 5,
+        "imgUrl": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "categoryId": 3,
+        "authorId": 1
+    },
+    {
+        "name": "Knight Without Armor",
+        "description": "Dislocation of C5/C6 cervical vertebrae, initial encounter",
+        "price": 988429,
+        "stock": 5,
+        "imgUrl": "https://images.unsplash.com/photo-1467043237213-65f2da53396f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "categoryId": 3,
+        "authorId": 1
+    },
+    {
+        "name": "Mr. Conservative: Goldwater on Goldwater",
+        "description": "Corrosion of unspecified degree of axilla",
+        "price": 617058,
+        "stock": 3,
+        "imgUrl": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=772&q=80",
+        "categoryId": 3,
+        "authorId": 1
+    },
+    {
+        "name": "Bachelor Night",
+        "description": "Dislocation of jaw, bilateral",
+        "price": 864223,
+        "stock": 3,
+        "imgUrl": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=405&q=80",
+        "categoryId": 3,
+        "authorId": 1
+    },
+    {
+        "name": "Donovan's Brain",
+        "description": "Disp fx of neck of left talus, init encntr for open fracture",
+        "price": 801386,
+        "stock": 4,
+        "imgUrl": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=405&q=80",
+        "categoryId": 3,
+        "authorId": 1
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "username": "Don",
+        "email": "don@amazon.de",
+        "password": "123456",
+        "role": "Staff",
+        "phoneNumber": "+57 281 133 8744",
+        "address": "70022 Shopko Terrace"
+    },
+    {
+        "username": "Skipper",
+        "email": "skipper@dailymotion.com",
+        "password": "123456",
+        "role": "Admin",
+        "phoneNumber": "+352 603 533 8341",
+        "address": "89 Rieder Street"
+    },
+    {
+        "username": "Bernice",
+        "email": "bcelier2@aboutads.info",
+        "password": "7zbDjz8Y",
+        "role": "Staff",
+        "phoneNumber": "+505 857 572 3406",
+        "address": "3 Hauk Court"
+    },
+    {
+        "username": "Andonis",
+        "email": "ahalbeard3@marketwatch.com",
+        "password": "beizttEHp0r",
+        "role": "Staff",
+        "phoneNumber": "+249 568 175 0052",
+        "address": "52997 Maple Wood Street"
+    },
+    {
+        "username": "Thorn",
+        "email": "ttregona4@theglobeandmail.com",
+        "password": "MmQe6Ft",
+        "role": "Staff",
+        "phoneNumber": "+48 884 354 6722",
+        "address": "1182 Macpherson Way"
+    }
+]
